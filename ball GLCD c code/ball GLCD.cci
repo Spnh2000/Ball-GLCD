@@ -1,0 +1,6 @@
+VERSION:3 SOURCE_TIMESTAMP:588F98A0
+NODE:I LEVEL:0 LINE:1 "C:\cvavr\inc\mega32.h"
+NODE:I LEVEL:0 LINE:2 "C:\cvavr\inc\delay.h"
+NODE:I LEVEL:0 LINE:4 "C:\cvavr\inc\glcd.h"
+NODE:I LEVEL:0 LINE:8 "C:\cvavr\inc\font5x7.h"
+NODE:F LEVEL:0 LINE:13 "main(void)"
